@@ -1,5 +1,6 @@
+import React from 'react'
 import './App.css'
-import ServiceCard from './components/ ServiceCard.jsx'
+import ServiceCard from './Components/ServiceCard.jsx'
 
 function App() {
 
