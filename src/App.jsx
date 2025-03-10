@@ -7,7 +7,7 @@ function App() {
    const data = [
     {
       name: "Mark Johnson",
-      review: "This service was amazing! Highly recommended."
+      review: "This service was  amazing! Highly recommended."
     },
     {
       name: "Tailor Vivian",

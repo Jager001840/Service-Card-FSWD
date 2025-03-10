@@ -1,6 +1,6 @@
 import '../App.css';
 
-function ServiceCard({name,review}){
+function ServiceCard ({name,review}){
     return(
         <>
         <div id="card">
